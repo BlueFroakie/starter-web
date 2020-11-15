@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luis Garcia luis.lag17@gmail.com SurfPiplup
 
 # THANKS
 
