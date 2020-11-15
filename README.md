@@ -15,3 +15,7 @@ Sample website with plenty of files for demos, and providing simple examples
 This is a simple web project
 
 ## How to contribute
+
+### Copyright 
+
+2020 git training
