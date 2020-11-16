@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requests for review
 
 ### Copyright 
 
-2020 git training
+2020 Poleana, All rights reserved
